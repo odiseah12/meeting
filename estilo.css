@@ -1,8 +1,13 @@
+
+*{
+    color: white;
+}
 body{
-    background: linear-gradient(to bottom, #ffffff 0%, #669999 100%);
+    background: white;
 }
 .bg{
     background:url(img/fondo.png ) no-repeat ;
+    
     background-position:  center center;
    
 }
@@ -12,4 +17,7 @@ h2{
 }
 .e,.i{
     color: white;
+}
+.menu{
+background: #B8BCCA;
 }
